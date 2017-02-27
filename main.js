@@ -21,11 +21,12 @@ console.log(heticien.promo);
 heticien.programmer();
 heticien.afficherAnne();
 heticien.passageSuperieur();
-heticien.afficherAnne();*/
+heticien.afficherAnne();
 
 
 
 window.addEventListener('keypress', function (e) {
     console.log(e.keyCode);      
 }, false);
+*/
  
